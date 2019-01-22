@@ -5,3 +5,6 @@
 
 # Available translation 
 - "Why Cardano?" > "Pourquoi Cardano ?"
+
+# On going translations
+- Stake pools in Cardano
