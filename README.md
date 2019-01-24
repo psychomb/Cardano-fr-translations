@@ -8,5 +8,6 @@
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Pourquoi_Cardano.pdf
 
 - "Groupes d'enjeu dans Cardano" // Original title: "Stake pools in Cardano" - Author: Prof. Aggelos Kiayias - Date: October 2018
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_au_sein_de_Cardano.pdf
 
 # On going translation
