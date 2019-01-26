@@ -11,3 +11,4 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Pourquoi_Cardano
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_au_sein_de_Cardano.pdf
 
 # On going translation
+~ 5% completion - "Cardano : l'économie autonome du futur ?" // Original title: "Cardano – The self-sovereign economy of the future?" - Author: @belowsearcher - Date: Aug 2018
