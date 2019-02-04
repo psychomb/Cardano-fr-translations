@@ -11,6 +11,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Pourquoi_Cardano
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_au_sein_de_Cardano.pdf
 
 - "A quel point Cardano est-il sécurisé ? - Partie 1" // Original title: "How secure is Cardano?" - Author: @belowsearcher - Date: Jan 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Cardano_est_il_se%CC%81curise%CC%81_Partie_1.pdf
 
 # On going translation
 
