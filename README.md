@@ -10,9 +10,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Pourquoi_Cardano
 - "Groupes d'enjeu dans Cardano" // Original title: "Stake pools in Cardano" - Author: Prof. Aggelos Kiayias - Date: October 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_au_sein_de_Cardano.pdf
 
-- "A quel point Cardano est-il sécurisé ? - Partie 1" // Original title: "How secure is Cardano?" - Author: @belowsearcher - Date: Jan 2019
+- "A quel point Cardano est-il sécurisé ? - Partie 1" // Original title: "How secure is Cardano?" - Author: @undersearcher - Date: Jan 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Cardano_est_il_securise_Partie_1.pdf
 
 # On going translation
 
-~75% completion - "A quel point Cardano est-il sécurisé ? - Partie 2" // Original title: "How secure is Cardano?" - Author: @belowsearcher - Date: Jan 2019
+~75% completion - "A quel point Cardano est-il sécurisé ? - Partie 2" // Original title: "How secure is Cardano?" - Author: @undersearcher - Date: Jan 2019
