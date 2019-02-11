@@ -21,3 +21,6 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Se_premunir_des_
 
 # On going translation
 
+- Will do "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
+
+- Will do "Marlowe : les contrats financiers sur la blockchain" // Original title: "Marlowe: financial contracts on blockchain", IOHK blog - Author: Simon Thompson - Date: December 2018
