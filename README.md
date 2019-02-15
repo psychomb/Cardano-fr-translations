@@ -3,7 +3,7 @@
 - Translation in (fr-FR) of various Cardano related documents. 
 - Primary source of documents: https://forum.cardano.org/t/interested-in-translating-cardano-content/19447
 
-# Available translations 
+**# Available translations**
 
 **CARDANO VISION**
 
@@ -26,7 +26,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Car
 - "A quel point Cardano est-il sécurisé ? - Partie 2" // Original title: "How secure is Cardano?" - Author: @undersearcher - Date: Jan 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Cardano_est_il_securise_Partie_2.pdf
 
-# On going translation
+**# On going translation**
 
 - Will do "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
 
