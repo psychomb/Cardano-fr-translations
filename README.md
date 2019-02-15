@@ -18,6 +18,10 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_a
 - "Se prémunir des attaques de type 'Sybil' " // Original title: "Preventing Sybil attacks", IOHK blog - Author: Lars Brünjes - Date: October 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Se_premunir_des_attaques_de_type_Sybil.pdf
 
+- "Marlowe : les contrats financiers sur la blockchain" // Original title: "Marlowe: financial contracts on blockchain", IOHK blog - Author: Simon Thompson - Date: December 2018
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Marlowe_les_contrats_financiers_sur_la_blockchain.pdf
+
+
 **OTHER ORIGINAL CONTENT**
 
 - "A quel point Cardano est-il sécurisé ? - Partie 1" // Original title: "How secure is Cardano?" - Author: @undersearcher - Date: Jan 2019
@@ -30,4 +34,3 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Car
 
 - Will do "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
 
-- Will do "Marlowe : les contrats financiers sur la blockchain" // Original title: "Marlowe: financial contracts on blockchain", IOHK blog - Author: Simon Thompson - Date: December 2018
