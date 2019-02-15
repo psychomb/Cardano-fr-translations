@@ -1,7 +1,9 @@
-**Cardano-fr/FR-Translations**
+**CARDANO french/FRANCE (fr/FR)**
 
-**- Translation in (fr-FR) of various Cardano related documents.**
-**- Primary source of documents: https://forum.cardano.org/t/interested-in-translating-cardano-content/19447**
+- Translation in (fr-FR) of various Cardano related documents.
+- Primary list of documents: https://forum.cardano.org/t/interested-in-translating-cardano-content/19447
+- Other original and relevant content considered
+- Some of these translations might be published on journalducoin.com, in full or adapted.
 
 **CARDANO VISION**
 
