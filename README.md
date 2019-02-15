@@ -1,7 +1,7 @@
-**Cardano-fr/FR-Translations
+**Cardano-fr/FR-Translations**
 
-**- Translation in (fr-FR) of various Cardano related documents. 
-- Primary source of documents: https://forum.cardano.org/t/interested-in-translating-cardano-content/19447
+**- Translation in (fr-FR) of various Cardano related documents.**
+**- Primary source of documents: https://forum.cardano.org/t/interested-in-translating-cardano-content/19447**
 
 **CARDANO VISION**
 
