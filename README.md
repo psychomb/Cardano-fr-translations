@@ -21,6 +21,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Se_premunir_des_
 - "Marlowe : les contrats financiers sur la blockchain" // Original title: "Marlowe: financial contracts on blockchain", IOHK blog - Author: Simon Thompson - Date: December 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Marlowe_les_contrats_financiers_sur_la_blockchain.pdf
 
+- "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Comment_Cardano_peut_contribuer_au_developpement_en_Afrique.pdf
+
 
 **OTHER ORIGINAL CONTENT**
 
@@ -32,5 +35,5 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Car
 
 **ON GOING WORK**
 
-- Will do "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
+- Will do 
 
