@@ -35,5 +35,4 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Car
 
 **ON GOING WORK**
 
-- Will do 
-
+- I take a break in March 2019 - See you before Shelley 
