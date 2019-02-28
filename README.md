@@ -12,7 +12,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Pourquoi_Cardano
 
 **IOHK BLOG POSTS**
 
-- "Groupes d'enjeu dans Cardano" // Original title: "Stake pools in Cardano", IOHK blog - Author: Prof. Aggelos Kiayias - Date: October 2018
+- "Groupes d'enjeu dans Cardano" // Original title: "Stake pools in Cardano", IOHK blog - Author: Aggelos Kiayias - Date: October 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Groupes_denjeu_au_sein_de_Cardano.pdf
 
 - "Se prémunir des attaques de type 'Sybil' " // Original title: "Preventing Sybil attacks", IOHK blog - Author: Lars Brünjes - Date: October 2018
