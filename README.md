@@ -24,6 +24,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Marlowe_les_cont
 - "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Comment_Cardano_peut_contribuer_au_developpement_en_Afrique.pdf
 
+**CARDANO COMMUNITY FORUM**
 
 **OTHER ORIGINAL CONTENT**
 
