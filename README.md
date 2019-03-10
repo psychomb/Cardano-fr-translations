@@ -26,7 +26,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Comment_Cardano_
 
 **CARDANO COMMUNITY FORUM**
 
-Comment rester en sécurité sur Internet? Original title: "How to be safe online - Beware of crypto scams !", IOHK Team blog-post - Author: @yeji.kim - Date: Jan 2019 https://github.com/psychomb/Cardano-fr-translations/blob/master/comment_rester_en_securite.pdf
+"Comment rester en sécurité sur Internet ? Attention au arnaques !" // Original title: "How to be safe online - Beware of crypto scams !", IOHK Team blog-post - Author: @yeji.kim - Date: Jan 2019 https://github.com/psychomb/Cardano-fr-translations/blob/master/comment_rester_en_securite.pdf
 
 **OTHER ORIGINAL CONTENT**
 
