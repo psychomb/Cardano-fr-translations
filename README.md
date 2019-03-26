@@ -24,6 +24,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Marlowe_les_cont
 - "Le rêve de la blockchain en Afrique devient une réalité" // Original title: "Vision for blockchain in Africa is becoming a reality", IOHK blog - Author: John O'Connor - Date: May 2018
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Comment_Cardano_peut_contribuer_au_developpement_en_Afrique.pdf
 
+- "Cardano est protégé contre les attaques de type “Faux enjeux" // Original title: "Cardano is secure against fake stake attacks", IOHK blog - Author: Phillip Kant - Date: January 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_est_protege_contre_les_attaques_fakestake.pdf
+
 **CARDANO COMMUNITY FORUM**
 
 "Comment rester en sécurité sur Internet ? Attention aux arnaques !" // Original title: "How to be safe online - Beware of crypto scams !", IOHK Team blog-post - Author: @yeji.kim - Date: Jan 2019 https://github.com/psychomb/Cardano-fr-translations/blob/master/comment_rester_en_securite.pdf
