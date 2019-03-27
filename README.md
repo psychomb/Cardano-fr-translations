@@ -27,6 +27,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Comment_Cardano_
 - "Cardano est protégé contre les attaques de type “Faux enjeux" // Original title: "Cardano is secure against fake stake attacks", IOHK blog - Author: Phillip Kant - Date: January 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_est_protege_contre_les_attaques_fakestake.pdf
 
+- "Cardano franchit une étape dans son développement" // Original title: "Cardano reaches development milestone", IOHK blog - Author: Duncan Coutts - Date: March 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_franchit_une_etape_dans_son_developpement.pdf
+
 **CARDANO COMMUNITY FORUM**
 
 "Comment rester en sécurité sur Internet ? Attention aux arnaques !" // Original title: "How to be safe online - Beware of crypto scams !", IOHK Team blog-post - Author: @yeji.kim - Date: Jan 2019 https://github.com/psychomb/Cardano-fr-translations/blob/master/comment_rester_en_securite.pdf
