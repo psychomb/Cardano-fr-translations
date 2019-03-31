@@ -30,6 +30,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_est_prot
 - "Cardano franchit une étape dans son développement" // Original title: "Cardano reaches development milestone", IOHK blog - Author: Duncan Coutts - Date: March 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_franchit_une_etape_dans_son_developpement.pdf
 
+- "Les versions de Cardano : petit guide" // Original title: "A guide to how Cardano is versioned", IOHK blog - Author: Tatyana Valkevych - Date: Dec 2018
+
+
 **CARDANO COMMUNITY FORUM**
 
 "Comment rester en sécurité sur Internet ? Attention aux arnaques !" // Original title: "How to be safe online - Beware of crypto scams !", IOHK Team blog-post - Author: @yeji.kim - Date: Jan 2019 https://github.com/psychomb/Cardano-fr-translations/blob/master/comment_rester_en_securite.pdf
