@@ -31,6 +31,7 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_est_prot
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Cardano_franchit_une_etape_dans_son_developpement.pdf
 
 - "Les versions de Cardano : petit guide" // Original title: "A guide to how Cardano is versioned", IOHK blog - Author: Tatyana Valkevych - Date: Dec 2018
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Les_versions_de_Cardano_petit_guide.pdf
 
 
 **CARDANO COMMUNITY FORUM**
