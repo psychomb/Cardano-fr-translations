@@ -36,6 +36,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/Les_versions_de_
 - "Dans les profondeurs d’Addis-Abeba" // Original title: "In at the deep end in Addis", IOHK Blog - Author: P. Vinogradova - Date: 8 Avril 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/dans_les_profondeurs_daddis.pdf
 
+- "Les nouvelles spécifications formelles de Shelley sont complètes" // Original title: "New Shelley formal specifications complete", IOHK Blog - Author: Philipp Kant - Date: 16 Avril 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Les_nouvelle_specs_de_Shelley.pdf
+
 
 **CARDANO COMMUNITY FORUM**
 
