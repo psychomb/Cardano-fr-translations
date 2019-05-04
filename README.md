@@ -39,6 +39,8 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/dans_les_profond
 - "Les nouvelles spécifications formelles de Shelley sont complètes" // Original title: "New Shelley formal specifications complete", IOHK Blog - Author: Philipp Kant - Date: 16 Avril 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/Les_nouvelle_specs_de_Shelley.pdf
 
+- "Des centaines de personnes au sommet I.O.H.K. de Miami" // Original title: "Hundreds attend the IOHK Summit 2019 in Miami", IOHK Blog - Author: Amy Reeve - Date: 29 Avril 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/Sommet_IOHK.pdf
 
 **CARDANO COMMUNITY FORUM**
 
