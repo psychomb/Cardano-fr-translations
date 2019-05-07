@@ -54,6 +54,9 @@ https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Car
 - "A quel point Cardano est-il sécurisé ? - Partie 2" // Original title: "How secure is Cardano?" - Author: @undersearcher - Date: Jan 2019
 https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Cardano_est_il_securise_Partie_2.pdf
 
+- "A quel point Cardano est-il décentralisé ?" // Original title: "How decentralized is Cardano ?" - Author: @undersearcher - Date: May 2019
+https://github.com/psychomb/Cardano-fr-translations/blob/master/A_quel_point_Cardano_est_il_decentralise.pdf
+
 **ON GOING WORK**
 
 
